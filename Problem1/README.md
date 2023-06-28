@@ -11,7 +11,7 @@ Three experiments are included in this program: _pretraining & linear classifica
 # Remark
 
 * Model results and parameters will be saved in the __save__ folder.
-* Please download the pre-training dataset from the following link [ImageNet](https://pan.baidu.com/s/1JWDda58yk0jmopLyUVKhBw?pwd=2acc) and place it under [绝对路径](../data/ImageNet).
+* Please download the pre-training dataset from the following link [ImageNet](https://pan.baidu.com/s/1JWDda58yk0jmopLyUVKhBw?pwd=2acc) and place it under __../data/ImageNet__.
 
 # Test
 
