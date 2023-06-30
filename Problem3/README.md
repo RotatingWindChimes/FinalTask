@@ -12,5 +12,5 @@ Please refer to the [bolg](https://blog.csdn.net/qq_43575504/article/details/129
 # Remarks
 
 * Please download and unzip necessary data from [Link](https://pan.baidu.com/s/1Dv8ojyszpx7c4qT-QZwoPA?pwd=0i6t) and place the entire file folder under `data`.
-* Please download and unzip personal data from [Link]() and place the entire file folder under `data/nerf_llff_data`.
+* Please download and unzip personal data from [Link](https://pan.baidu.com/s/1EHjcJV5ZLBasYVlIZ27EOw?pwd=vryg) and place the entire file folder under `data/nerf_llff_data`.
 * The generated videos will be available at `logs` after training. 
